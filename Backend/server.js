@@ -13,7 +13,7 @@ connectDB();
 const app = express();
 app.use(cors({
   origin: [
-    "https://ai-learn.onrender.com"
+    "https://ai-learn-answ.onrender.com"
   ],
   credentials: true
 }));
