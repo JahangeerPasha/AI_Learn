@@ -5,12 +5,9 @@ An AI-powered personalized learning platform built with **MERN Stack** and **LLM
 **AI Learn** helps users get personalized learning paths, AI tutoring, and study guidance based on their interests and goals.  
 The platform removes friction by offering a clean onboarding flow, authentication, and smart AI recommendations.
 
----
-
 ## 🌐 Live Deployment
 
 - Deployment Link : https://ai-learn-answ.onrender.com
----
 
 ## 🧠 Key Features
 - 🔐 **Authentication & Authorization**
@@ -29,8 +26,6 @@ The platform removes friction by offering a clean onboarding flow, authenticatio
   - Environment variables
   - Deployed on Render
   - MongoDB Atlas integration
-
----
 
 ## 🛠 Tech Stack
 
@@ -51,8 +46,6 @@ The platform removes friction by offering a clean onboarding flow, authenticatio
 - Backend: Render (Web Service)
 - Frontend: Render (Static Site)
 - Database: MongoDB Atlas
-
-  ---
 
   ## 📌 Future Improvements
 - Remove onboarding dependency
