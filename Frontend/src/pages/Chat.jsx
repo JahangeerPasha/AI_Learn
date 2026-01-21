@@ -1,5 +1,5 @@
 import { useState } from "react";
-import API from "../Api/api";
+import API from "../utils/api";
 // import Navbar from "../components/Navbar";
 import Navbar from "./Navbar";
 import ReactMarkdown from "react-markdown";

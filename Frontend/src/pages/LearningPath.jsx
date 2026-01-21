@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import API from "../Api/api";
+import API from "../utils/api";
 import Navbar from "./Navbar";
 
 const LearningPath = () => {

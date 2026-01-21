@@ -1,5 +1,5 @@
 import { useState } from "react";
-import API from "../Api/api.js";
+import API from "../utils/api";
 import { useNavigate, Link } from "react-router-dom";
 
 const Register = () => {
