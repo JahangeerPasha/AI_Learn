@@ -6,7 +6,7 @@ An AI-powered personalized learning platform built with **MERN Stack** and **LLM
 
 ## 🌐 Live Deployment
 
-- Deployment Link : https://ai-learn-answ.onrender.com
+- Deployment Link : https://ai-learn-answ.onrender.com (App may take a few moments to load.)
 
 ## 🧠 Key Features
 - 🔐 **Authentication & Authorization**
