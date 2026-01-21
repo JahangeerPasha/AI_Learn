@@ -47,14 +47,12 @@ The platform removes friction by offering a clean onboarding flow, authenticatio
 - Frontend: Render (Static Site)
 - Database: MongoDB Atlas
 
-  ## 📌 Future Improvements
+## 📌 Future Improvements
 - Remove onboarding dependency
 - Mobile responsive UI
 - Progress tracking
 - Unit & integration tests
 - Custom domain support
-
----
 
 ## 👨‍💻 Author
 **Jahangeer Pasha**  
