@@ -30,7 +30,7 @@ The platform removes friction by offering a clean onboarding flow, authenticatio
 ## 🛠 Tech Stack
 
 ### Frontend
-- React (Vite)
+- React.js
 - Axios
 - React Router
 - Custom UI styling
