@@ -2,8 +2,7 @@
 An AI-powered personalized learning platform built with **MERN Stack** and **LLM integration**.
 
 ## 🌟 Overview
-**AI Learn** helps users get personalized learning paths, AI tutoring, and study guidance based on their interests and goals.  
-The platform removes friction by offering a clean onboarding flow, authentication, and smart AI recommendations.
+**AI Learn** helps users get personalized learning paths, AI tutoring, and study guidance based on their interests and goals. The platform removes friction by offering a clean onboarding flow, authentication, and smart AI recommendations.
 
 ## 🌐 Live Deployment
 
